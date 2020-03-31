@@ -19,5 +19,9 @@ public class MAIN {
         System.out.println("José Alejandro López Ramírez");
         System.out.println("Huehuetenango Zona 8"); 
         System.out.println("5592-8636");
+       
+        Sistema . a cabo . println ( " Juan Amilcar Larias Méndez " );
+       Sistema . a cabo . println ( " Sector 3, cambote zona 11, Huehuetenango " );
+       Sistema . a cabo . println ( " 5737-5464 " );
     }
 }
