@@ -14,5 +14,10 @@ public class MAIN {
          System.out.println("Diego Alejandro Samayoa Gómez");
         System.out.println("Cambote, Zona 11, Huehuetenango"); 
         System.out.println("3130-8640");
+        
+        
+        System.out.println("José Alejandro López Ramírez");
+        System.out.println("Huehuetenango Zona 8"); 
+        System.out.println("5592-8636");
     }
 }
