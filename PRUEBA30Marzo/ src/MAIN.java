@@ -23,5 +23,9 @@ public class MAIN {
         Sistema . a cabo . println ( " Juan Amilcar Larias Méndez " );
        Sistema . a cabo . println ( " Sector 3, cambote zona 11, Huehuetenango " );
        Sistema . a cabo . println ( " 5737-5464 " );
+        
+        System.out.println("Carlos Andrés Miranda Méndez");
+        System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
+        System.out.println("58385781");
     }
 }
